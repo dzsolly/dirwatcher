@@ -18,8 +18,8 @@ An interactive Bash script for inspecting the contents of any directory on RHEL 
 ## 🚀 Usage
 
 ```bash
-chmod +x dir-inspector.sh
-./dir-inspector.sh
+chmod +x spacehound.sh
+./spacehound.sh
 ```
 
 You’ll be prompted to enter a directory path. The script will then display:
